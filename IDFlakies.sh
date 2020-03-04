@@ -9,8 +9,7 @@ echo "$ris"
 
 getclassName(){
     local stringPath=$testName
-    IFS='.' # hyphen (-) is set as delimiter
-    read -ra ADDR <<< "$stringPath" # str is read into an array as tokens separated by IFS
+    IFS='.' read -ra ADDR <<< "$stringPath" # str is read into an array as tokens separated by IFS
     sizeArray=${#ADDR[@]}
     className=${ADDR[sizeArray-2]}
     echo "$className" 
@@ -18,10 +17,10 @@ getclassName(){
 
 getNameMethod(){
   local stringPath=$testName
-    IFS='.' # hyphen (-) is set as delimiter
-    read -ra ADDR <<< "$stringPath" # str is read into an array as tokens separated by IFS
+    IFS='.' read -ra ADDR <<< "$stringPath" # str is read into an array as tokens separated by IFS
     sizeArray=${#ADDR[@]} 
     nameMethod=${ADDR[sizeArray-1]}
+    #echo $nameMethod
     echo "$nameMethod"
 
 }
@@ -33,6 +32,7 @@ cloneAndCheckRepo(){
  local repoFolder=$REPOFOLDER
  cd $baseDir
  cd $repoFolder
+ echo $PWD
  echo "cloning repo... " $linkRepo
  git clone $linkRepo
   basename=$(basename $link)
@@ -46,13 +46,13 @@ BASEDIR=$1
 REPOFOLDER=$2
 fileOutput=$BASEDIR"outIDFlakies.csv"
 maxLength=-1
-path=$BASEDIR"input.csv"
+path=$BASEDIR"dataset.csv"
 while IFS= read -r line
 do
     IFS=',' read -r -a array <<< "$line"
     linkRepo=${array[0]}
     shaCommit=${array[1]}
-    testName=${array[3]}
+    testName=${array[2]}
     cloneAndCheckRepo "$linkRepo" "$shaCommit" "$BASEDIR" "$REPOFOLDER"
     className="$(getclassName)"
     nameMethod="$(getNameMethod)"
