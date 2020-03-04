@@ -1,0 +1,5 @@
+jimfs,https://github.com/google/jimfs.git, 3abd95a268ae109c9a132377030d0911d2f0fb37,./jimfs/, JimfsFileChannelTest,testCloseByInterrupt,test pass, mer 4 mar 2020, 18.13.12, CET,mer 4 mar 2020, 18.13.16, CET
+jimfs,https://github.com/google/jimfs.git, 3abd95a268ae109c9a132377030d0911d2f0fb37,./jimfs/, JimfsFileChannelTest,testCloseByInterrupt,test pass, mer 4 mar 2020, 18.13.16, CET,mer 4 mar 2020, 18.13.18, CET
+jimfs,https://github.com/google/jimfs.git, 3abd95a268ae109c9a132377030d0911d2f0fb37,./jimfs/, JimfsFileChannelTest,testCloseByInterrupt,test pass, mer 4 mar 2020, 18.13.18, CET,mer 4 mar 2020, 18.13.20, CET
+jimfs,https://github.com/google/jimfs.git, 3abd95a268ae109c9a132377030d0911d2f0fb37,./jimfs/, JimfsFileChannelTest,testCloseByInterrupt,test pass, mer 4 mar 2020, 18.13.20, CET,mer 4 mar 2020, 18.13.22, CET
+jimfs,https://github.com/google/jimfs.git, 3abd95a268ae109c9a132377030d0911d2f0fb37,./jimfs/, JimfsFileChannelTest,testCloseByInterrupt,test pass, mer 4 mar 2020, 18.13.22, CET,mer 4 mar 2020, 18.13.24, CET

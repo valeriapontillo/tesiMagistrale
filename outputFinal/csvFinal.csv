@@ -1,0 +1,4 @@
+https://github.com/google/jimfs.git,2b304c6c9b9acc86874156be1063efc46787f4d6,./jimfs/,JimfsAsynchronousFileChannelTest,testAsyncClose_read,5,5,0
+https://github.com/google/jimfs.git,80a99d31a4d65ebd583c40255474bfa481ca0ff6,./jimfs/,JimfsAsynchronousFileChannelTest,testAsyncClose_write,5,5,0
+https://github.com/google/jimfs.git,3abd95a268ae109c9a132377030d0911d2f0fb37,./jimfs/,JimfsFileChannelTest,testCloseByInterrupt,5,5,0
+https://github.com/google/jimfs.git,2b16ca2f28b55c62c25b0d0ff6d23e8a74ba56ce,./jimfs/,PollingWatchServiceTest,testWatchForMultipleEventTypes,5,5,0

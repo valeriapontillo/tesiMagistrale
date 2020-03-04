@@ -24,6 +24,50 @@
 #    
 #}
 
+checkRepo(){
+    local nameRepo=$NAMEREPO
+    local linkRepo=$LINKREPO
+    local shaCommit=$SHACOMMIT
+    local baseDir=$BASEDIR
+    local repoFolder=$REPOFOLDER
+    cd $baseDir
+    cd $repoFolder
+    cd $nameRepo
+
+    actualSha=$(git rev-parse HEAD)
+      echo "actual sha:" $actualSha
+      echo "SHA COMMIT:" $shaCommit
+       if echo "$actualSha" | grep -q "$shaCommit"; then # lo sha è lo stesso di quello actual
+            echo "project "$nameRepo" already exsist with sha: "$shaCommit
+            cd $baseDir
+            echo $PWD
+            toReturn=0
+        else 
+            echo "cd "$nameRepo
+            echo "nameRepo"$nameRepo
+            echo "git checkout " $shaCommit
+            git checkout $shaCommit
+            toReturn=1
+            
+        fi
+}
+
+mvnStep(){
+    local baseDir=$BASEDIR
+    TOSEARCH="BUILD FAILURE"
+    OUTPUTBUILD=""
+    echo "_____________RUN mvn install -DskipTests________________"
+    message=$(mvn install -DskipTests -fn -B)
+    if echo "$message" | grep -q "$TOSEARCH"; then 
+        OUTPUTBUILD="BUILD FAILED"
+    else
+        OUTPUTBUILD="BUILD PASS"
+    fi
+    echo "_____________END mvn install -DskipTests________________"
+    cd $baseDir
+    echo  "$OUTPUTBUILD"
+}
+
 searchFlaky(){
 echo "--------------------------------------------SEARCH FLAKY----------------------------------"
 local concatName=$CLASSNAME"#"$METHODNAME
@@ -52,10 +96,10 @@ do
     timestampInitialDate=$(date -d @$timestampInitial)
     echo "exec command: mvn -Dtest="$concatName" test" $i
     stateMachineInitial=$(vmstat -t)
-    dirLog="$baseDir""$outputLog""$CLASSNAME"_"$METHODNAME"".txt"
+    dirLog="$baseDir""$outputLog""$CLASSNAME"_"$METHODNAME""_""$SHACOMMIT"".txt"
     message=$(mvn -Dtest=$concatName test | tee $dirLog)
     stateMachineFinal=$(vmstat -t)
-    echo "$stateMachineInitial", "$stateMachineFinal" >> "$baseDir""$stateLog""$CLASSNAME""_""$METHODNAME"".txt"
+    echo "$stateMachineInitial", "$stateMachineFinal" >> "$baseDir""$stateLog""$CLASSNAME""_""$METHODNAME""_""$SHACOMMIT"".txt"
     timestampFinal=$(date +%s)
     timestampFinalDate=$(date -d @$timestampFinal)
     if echo "$message" | grep -q "$TOSEARCH"; then
@@ -67,7 +111,7 @@ do
         echo "test fail" 
         FAILTEST=$((FAILTEST+1))
     fi
-    echo "$nameRepo","$linkRepo", "$shaCommit","$moduleName", "$CLASSNAME","$METHODNAME","$resultTest", $timestampInitialDate,$timestampFinalDate >> "$baseDir""$csvOutput""$CLASSNAME""_""$METHODNAME"".csv"
+    echo "$nameRepo","$linkRepo", "$shaCommit","$moduleName", "$CLASSNAME","$METHODNAME","$resultTest", $timestampInitialDate,$timestampFinalDate >> "$baseDir""$csvOutput""$CLASSNAME""_""$METHODNAME""_""$SHACOMMIT"".csv"
 done
 echo "number of pass: "$PASSTEST
 echo "number of failure: "$FAILTEST
@@ -99,7 +143,12 @@ STATELOG=$9
         MODULENAME=${array[3]}
         CLASSNAME=${array[4]}
         METHODNAME=${array[5]}
+        checkRepo "$NAMEREPO" "$LINKREPO" "$SHACOMMIT" "$BASEDIR" "$REPOFOLDER"
+        echo $toReturn
+        if [ $toReturn -eq 1 ]; then
+            mvnStep $BASEDIR
+        fi
         searchFlaky $NAMEREPO $CLASSNAME $METHODNAME $NUMBERSROUNDS $BASEDIR $REPOFOLDER $CSVOUTPUT $SHACOMMIT $LINKREPO $OUTPUTLOG $STATELOG
         cd $BASEDIR
-        echo $LINKREPO,$SHACOMMIT,$MODULENAME,$CLASSNAME,$METHODNAME $NUMBERSROUNDS,$PASSTEST,$FAILTEST >> "$CSVOUTPUTFINAL"".csv" 
+        echo $LINKREPO,$SHACOMMIT,$MODULENAME,$CLASSNAME,$METHODNAME,$NUMBERSROUNDS,$PASSTEST,$FAILTEST >> "$CSVOUTPUTFINAL"".csv" 
     done < "$CSVINPUTFIRSTSTEP"
