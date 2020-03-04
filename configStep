@@ -1,0 +1,10 @@
+CSVINPUTFIRSTSTEP=outIDFlakies.csv
+CSVOUTPUT=outputStep/
+CSVOUTPUTFINAL=outputFinal/csvFinal
+CSVOUTPUTFIRSTSTEP=outFirstStep.csv #risultato della build numero inferiore di righe perché la clone viene fatta 1 sola volta
+REPOFOLDER=Repos/
+NITER=1
+NROUND=1000
+BASEDIR=/home/sesa/Scrivania/flakyUNISA/
+OUTPUTLOG=LOG/
+STATELOG=STATELOG/
