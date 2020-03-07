@@ -97,7 +97,8 @@ do
     echo "exec command: mvn -Dtest="$concatName" test" $i
     stateMachineInitial=$(vmstat -t)
     dirLog="$baseDir""$outputLog""$CLASSNAME"_"$METHODNAME""_""$SHACOMMIT"".txt"
-    message=$(mvn -Dtest=$concatName test | tee $dirLog)
+    message=$(mvn -Dtest=$concatName test)
+    echo "$message" >> "$dirLog"
     stateMachineFinal=$(vmstat -t)
     echo "$stateMachineInitial", "$stateMachineFinal" >> "$baseDir""$stateLog""$CLASSNAME""_""$METHODNAME""_""$SHACOMMIT"".txt"
     timestampFinal=$(date +%s)
