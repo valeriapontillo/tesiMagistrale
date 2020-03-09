@@ -46,7 +46,7 @@ BASEDIR=$1
 REPOFOLDER=$2
 fileOutput=$BASEDIR"outIDFlakies.csv"
 maxLength=-1
-path=$BASEDIR"dataset.csv"
+path=$BASEDIR"dataset2.csv"
 while IFS= read -r line
 do
     IFS=',' read -r -a array <<< "$line"
