@@ -79,3 +79,12 @@ https://github.com/doanduyhai/Achilles.git,3ef293744f913c1aa8cf59d2fdd78f46a5e2f
 https://github.com/doanduyhai/Achilles.git,3ef293744f913c1aa8cf59d2fdd78f46a5e2f79f,./integration-test-2_1/,TestALLEntityAsChild,should_insert,1000,0,1000
 https://github.com/doanduyhai/Achilles.git,3ef293744f913c1aa8cf59d2fdd78f46a5e2f79f,./integration-test-2_1/,TestEntityWithComplexCounter,should_dsl_update_codec_counter,1000,0,1000
 https://github.com/doanduyhai/Achilles.git,3ef293744f913c1aa8cf59d2fdd78f46a5e2f79f,./integration-test-2_1/,TestTypedQueries,should_perform_bound_statement_typed_query,1000,0,1000
+https://github.com/dvla/oepp-customer-portal.git,0b3aa4dbf20d444841ebea229c8031b5b431ef52,./,ApplicationControllerTest,testThatHomepageWorks,1000,0,1000
+https://github.com/dvla/oepp-customer-portal.git,1158fcd3b3887da37a4fb793f15b78f3090a3ddb,./,ApplicationControllerTest,testThatHomepageWorks,1000,0,1000
+https://github.com/dvla/oepp-customer-portal.git,61bc1f275b3a52b39f0b14ab896416de664e8db6,./,ApplicationControllerTest,testThatHomepageWorks,1000,0,1000
+https://github.com/apache/oozie.git,d37ac455bfcfb0c1a13a5235c9ab0705dd546833,./core/,TestLiteWorkflowLib,testSynchSimple,1000,0,1000
+https://github.com/hector-client/hector.git,abb6a32e289c369d6cd36ba4b8cf505ee339b2e4,./core/,CassandraClusterTest,testDescribeKeyspaces,1000,1000,0
+https://github.com/vaquarkhan/VaquarKhan-Workspace.git,9af079721f0f82d6209750bc714494c7615fd59b,./spring-boot-master/spring-boot-cli/,ManagedDependenciesArtifactCoordinatesResolverTests,getGroupIdFound,1000,0,1000
+https://github.com/apache/oozie.git,88d28bed27bc63df2cfe8f20f0b78c0637f82122,./core/,TestV1JobServlet,testSuspend,1000,0,1000
+https://github.com/doanduyhai/Achilles.git,91039b0f20971ecdc7fa82a242dd9bbdd2f15eed,./integration-test-2_1/,TestEntityWithStaticColumn,should_insert_static_with_insert_strategy,1000,0,1000
+https://github.com/apache/oozie.git,ab2f55068619b8e5c850b6b266481a02b775856d,./core/,TestCoordRerunXCommand,testCoordRerunInDoneWithError,1000,0,1000
