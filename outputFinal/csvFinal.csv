@@ -5,10 +5,10 @@ https://github.com/apache/oozie.git,4249aaeea2dde6a925c239d11b846804f6fc546c,./c
 https://github.com/spring-projects/spring-boot.git,48d651c7531ae32afb14ab68c365264e9104eff9,./spring-boot-autoconfigure/,HibernateJpaAutoConfigurationTests,testNamingStrategyThatWorkedInOneDotOhContinuesToWork,1000,0,1000
 https://github.com/apache/commons-exec.git,ae3f40da41ef92ccfd8a39017385d3ef9ba106cf,./,Exec60Test,testExec_60,1000,0,1000
 https://github.com/apache/oozie.git,c6d473f9faa4848299707c84829b5effa4ab1595,./core/,TestPartitionDependencyManagerEhcache,testEvictionOnTimeToIdle,1000,0,1000
-https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,addsInfoMessageWhenSocketConnectionClosed,1000,986,14
-https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,addsInfoMessageWhenSocketConnectionFailed,1000,988,12
-https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,closesSocketOnException,1000,978,22
-https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,shutsDownOnInterruptWhileWaitingForEvent,1000,1000,0
+https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,addsInfoMessageWhenSocketConnectionClosed,1000,0,1000
+https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,addsInfoMessageWhenSocketConnectionFailed,1000,0,1000
+https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,closesSocketOnException,1000,0,1000
+https://github.com/qos-ch/logback.git,16a26fdc6e144de18ee8805724ec7341d3bf06f3,./logback-core/,AbstractSocketAppenderTest,shutsDownOnInterruptWhileWaitingForEvent,1000,0,1000
 https://github.com/OryxProject/oryx.git,6fb2e4a6c17613e9fc1d76a7e992725b89532b4e,./oryx-app/,RDFSpeedIT,testRDFSpeedClassification,1000,0,1000
 https://github.com/apache/oozie.git,b02a65ed3eefa05685987e4fbea883bfc0f24bbd,./core/,TestPartitionDependencyManagerEhcache,testEvictionOnTimeToIdle,1000,0,1000
 https://github.com/apache/oozie.git,e72d8e800530202195fe7f24c8df7c6145559a63,./core/,TestPartitionDependencyManagerEhcache,testEvictionOnTimeToIdle,1000,0,1000

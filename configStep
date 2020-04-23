@@ -5,6 +5,6 @@ CSVOUTPUTFIRSTSTEP=outFirstStep.csv #risultato della build numero inferiore di r
 REPOFOLDER=Repos/
 NITER=1
 NROUND=1000
-BASEDIR=/home/sesa/tesiMagistrale/
+BASEDIR=/home/vally/Documenti/tesiMagistrale/
 OUTPUTLOG=LOG/
 STATELOG=STATELOG/
