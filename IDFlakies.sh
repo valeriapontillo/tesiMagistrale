@@ -78,4 +78,9 @@ do
    length=-1
    maxLength=-1
    ris=""
+
 done < "$path"
+
+
+     rm -rf Repos/
+      mkdir Repos 

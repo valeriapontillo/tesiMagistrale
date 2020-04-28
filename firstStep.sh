@@ -81,7 +81,8 @@ CSVOUTPUTFIRSTSTEP=$4
         if [ $toReturn -eq 1 ]; then
             mvnStep $BASEDIR
             echo "$NAMEREPO","$LINKREPO","$SHACOMMIT","$OUTPUTBUILD" >> "$CSVOUTPUTFIRSTSTEP"
-        fi 
+        fi
+
         
     done < "$CSVINPUTFIRSTSTEP"
 
