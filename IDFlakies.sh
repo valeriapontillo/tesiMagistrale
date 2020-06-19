@@ -78,5 +78,5 @@ do
    length=-1
    maxLength=-1
    ris=""
-   rm -r $REPOFOLDER
 done < "$path"
+rm -r $REPOFOLDER
