@@ -1,9 +1,0 @@
-oepp-customer-portal,https://github.com/dvla/oepp-customer-portal.git,0b3aa4dbf20d444841ebea229c8031b5b431ef52,BUILD PASS
-oepp-customer-portal,https://github.com/dvla/oepp-customer-portal.git,1158fcd3b3887da37a4fb793f15b78f3090a3ddb,BUILD PASS
-oepp-customer-portal,https://github.com/dvla/oepp-customer-portal.git,61bc1f275b3a52b39f0b14ab896416de664e8db6,BUILD PASS
-oozie,https://github.com/apache/oozie.git,d37ac455bfcfb0c1a13a5235c9ab0705dd546833,BUILD FAILED
-hector,https://github.com/hector-client/hector.git,abb6a32e289c369d6cd36ba4b8cf505ee339b2e4,BUILD PASS
-VaquarKhan-Workspace,https://github.com/vaquarkhan/VaquarKhan-Workspace.git,9af079721f0f82d6209750bc714494c7615fd59b,BUILD FAILED
-oozie,https://github.com/apache/oozie.git,88d28bed27bc63df2cfe8f20f0b78c0637f82122,BUILD FAILED
-Achilles,https://github.com/doanduyhai/Achilles.git,91039b0f20971ecdc7fa82a242dd9bbdd2f15eed,BUILD FAILED
-oozie,https://github.com/apache/oozie.git,ab2f55068619b8e5c850b6b266481a02b775856d,BUILD FAILED

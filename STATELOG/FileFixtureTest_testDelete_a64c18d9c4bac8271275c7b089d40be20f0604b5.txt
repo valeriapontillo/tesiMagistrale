@@ -1,0 +1,500 @@
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4297864 534164 7825588    0    0    63   151  269  106 25  2 73  0  0 2020-06-08 18:48:12, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4299704 534192 7825532    0    0    63   151  269  106 25  2 73  0  0 2020-06-08 18:48:18
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4298900 534192 7825532    0    0    63   151  269  106 25  2 73  0  0 2020-06-08 18:48:18, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4309784 534212 7815484    0    0    63   151  269  107 25  2 73  0  0 2020-06-08 18:48:24
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4309484 534212 7815484    0    0    63   151  269  107 25  2 73  0  0 2020-06-08 18:48:24, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4305572 534232 7815528    0    0    63   151  269  108 25  2 73  0  0 2020-06-08 18:48:30
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4305344 534232 7815528    0    0    63   151  269  108 25  2 73  0  0 2020-06-08 18:48:30, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4303148 534252 7815724    0    0    63   151  269  108 25  2 73  0  0 2020-06-08 18:48:37
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4302888 534252 7815724    0    0    63   151  269  108 25  2 73  0  0 2020-06-08 18:48:37, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4304556 534280 7815692    0    0    63   151  269  109 25  2 73  0  0 2020-06-08 18:48:42
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4304020 534280 7815692    0    0    63   151  269  109 25  2 73  0  0 2020-06-08 18:48:42, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4302876 534300 7815736    0    0    63   151  269  110 25  2 73  0  0 2020-06-08 18:48:48
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4302064 534300 7815736    0    0    63   151  269  110 25  2 73  0  0 2020-06-08 18:48:48, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4302524 534340 7815724    0    0    63   151  269  110 25  2 73  0  0 2020-06-08 18:48:54
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4302500 534340 7815724    0    0    63   151  269  110 25  2 73  0  0 2020-06-08 18:48:54, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4290936 534368 7823976    0    0    63   151  269  111 25  2 73  0  0 2020-06-08 18:49:00
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4290132 534368 7823976    0    0    63   151  269  111 25  2 73  0  0 2020-06-08 18:49:00, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4290396 534392 7823816    0    0    63   151  270  111 25  2 73  0  0 2020-06-08 18:49:06
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4290364 534392 7823816    0    0    63   151  270  111 25  2 73  0  0 2020-06-08 18:49:06, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4286552 534420 7823848    0    0    63   151  270  112 25  2 73  0  0 2020-06-08 18:49:12
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4286220 534420 7823824    0    0    63   151  270  112 25  2 73  0  0 2020-06-08 18:49:12, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4285640 534440 7823964    0    0    63   151  270  113 25  2 72  0  0 2020-06-08 18:49:18
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284852 534440 7823964    0    0    63   151  270  113 25  2 72  0  0 2020-06-08 18:49:18, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284420 534460 7824108    0    0    63   151  270  113 25  2 72  0  0 2020-06-08 18:49:23
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284128 534460 7824108    0    0    63   151  270  113 25  2 72  0  0 2020-06-08 18:49:23, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283608 534488 7824064    0    0    62   151  270  114 25  2 72  0  0 2020-06-08 18:49:29
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284128 534488 7824064    0    0    62   151  270  114 25  2 72  0  0 2020-06-08 18:49:29, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284084 534508 7824100    0    0    62   151  270  114 25  2 72  0  0 2020-06-08 18:49:35
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284052 534508 7824100    0    0    62   151  270  114 25  2 72  0  0 2020-06-08 18:49:35, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283488 534544 7824080    0    0    62   151  270  115 25  2 72  0  0 2020-06-08 18:49:41
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283204 534544 7824080    0    0    62   151  270  115 25  2 72  0  0 2020-06-08 18:49:41, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283128 534564 7824116    0    0    62   151  270  116 25  2 72  0  0 2020-06-08 18:49:47
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4282308 534564 7824096    0    0    62   151  270  116 25  2 72  0  0 2020-06-08 18:49:47, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4277404 534588 7824204    0    0    62   151  270  116 25  2 72  0  0 2020-06-08 18:49:53
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4277064 534588 7824204    0    0    62   151  270  116 25  2 72  0  0 2020-06-08 18:49:53, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4282692 534608 7824180    0    0    62   151  270  117 25  2 72  0  0 2020-06-08 18:49:58
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4281636 534608 7824180    0    0    62   151  270  117 25  2 72  0  0 2020-06-08 18:49:58, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283704 534628 7818316    0    0    62   152  270  118 25  2 72  0  0 2020-06-08 18:50:04
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283680 534628 7818316    0    0    62   152  270  118 25  2 72  0  0 2020-06-08 18:50:04, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4285044 534648 7818356    0    0    62   152  270  118 25  2 72  0  0 2020-06-08 18:50:10
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284524 534648 7818356    0    0    62   152  270  118 25  2 72  0  0 2020-06-08 18:50:10, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4286452 534668 7818360    0    0    62   152  270  119 25  2 72  0  0 2020-06-08 18:50:15
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4285128 534668 7818360    0    0    62   152  270  119 25  2 72  0  0 2020-06-08 18:50:15, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283176 534696 7818384    0    0    62   152  270  119 25  2 72  0  0 2020-06-08 18:50:21
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4282892 534696 7818384    0    0    62   152  270  119 25  2 72  0  0 2020-06-08 18:50:21, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4284052 534716 7818556    0    0    62   152  270  120 25  2 72  0  0 2020-06-08 18:50:27
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283492 534716 7818556    0    0    62   152  270  120 25  2 72  0  0 2020-06-08 18:50:27, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283460 534736 7818588    0    0    62   152  270  121 25  2 72  0  0 2020-06-08 18:50:33
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4282248 534736 7818588    0    0    62   152  270  121 25  2 72  0  0 2020-06-08 18:50:33, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4282116 534760 7818512    0    0    62   152  270  121 25  2 72  0  0 2020-06-08 18:50:39
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4282100 534760 7818512    0    0    62   152  270  121 25  2 72  0  0 2020-06-08 18:50:39, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4283380 534780 7818548    0    0    62   152  270  122 25  2 72  0  0 2020-06-08 18:50:44
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4282064 534780 7818548    0    0    62   152  270  122 25  2 72  0  0 2020-06-08 18:50:44, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4257160 534832 7820316    0    0    62   152  270  122 25  2 72  0  0 2020-06-08 18:50:50
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256900 534832 7820316    0    0    62   152  270  122 25  2 72  0  0 2020-06-08 18:50:50, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4259292 534872 7819848    0    0    62   152  270  123 25  2 72  0  0 2020-06-08 18:50:56
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4259024 534872 7819848    0    0    62   152  270  123 25  2 72  0  0 2020-06-08 18:50:56, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4261244 534900 7820136    0    0    62   152  270  124 25  2 72  0  0 2020-06-08 18:51:01
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260700 534900 7820136    0    0    62   152  270  124 25  2 72  0  0 2020-06-08 18:51:01, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4263436 534920 7820152    0    0    62   152  270  124 25  2 72  0  0 2020-06-08 18:51:07
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4262476 534920 7820152    0    0    62   152  270  124 25  2 72  0  0 2020-06-08 18:51:07, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4262588 534944 7820236    0    0    62   152  270  125 25  2 72  0  0 2020-06-08 18:51:13
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4262044 534944 7820236    0    0    62   152  270  125 25  2 72  0  0 2020-06-08 18:51:13, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260916 534964 7820308    0    0    62   152  270  125 25  2 72  0  0 2020-06-08 18:51:19
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260468 534964 7820228    0    0    62   152  270  125 25  2 72  0  0 2020-06-08 18:51:19, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4263116 534984 7820248    0    0    62   152  270  126 25  2 72  0  0 2020-06-08 18:51:25
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4262336 534984 7820248    0    0    62   152  270  126 25  2 72  0  0 2020-06-08 18:51:25, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4263344 535004 7820296    0    0    62   152  270  127 25  2 72  0  0 2020-06-08 18:51:30
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4262556 535004 7820296    0    0    62   152  270  127 25  2 72  0  0 2020-06-08 18:51:30, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4261928 535024 7820344    0    0    61   152  270  127 25  2 72  0  0 2020-06-08 18:51:36
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4261116 535024 7820344    0    0    61   152  270  127 25  2 72  0  0 2020-06-08 18:51:36, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260160 535056 7820440    0    0    61   153  270  128 25  2 72  0  0 2020-06-08 18:51:41
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260128 535056 7820440    0    0    61   153  270  128 25  2 72  0  0 2020-06-08 18:51:41, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260476 535076 7820308    0    0    61   153  270  128 25  2 72  0  0 2020-06-08 18:51:47
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260192 535076 7820308    0    0    61   153  270  128 25  2 72  0  0 2020-06-08 18:51:47, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4259364 535096 7820516    0    0    61   153  270  129 25  2 72  0  0 2020-06-08 18:51:53
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4259072 535096 7820516    0    0    61   153  270  129 25  2 72  0  0 2020-06-08 18:51:53, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260028 535116 7820480    0    0    61   153  270  130 25  2 72  0  0 2020-06-08 18:51:59
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4259744 535116 7820460    0    0    61   153  270  130 25  2 72  0  0 2020-06-08 18:51:59, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260036 535136 7820096    0    0    61   153  270  130 25  2 72  0  0 2020-06-08 18:52:04
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4259032 535136 7820096    0    0    61   153  270  130 25  2 72  0  0 2020-06-08 18:52:04, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4260220 535156 7820032    0    0    61   153  270  131 25  2 72  0  0 2020-06-08 18:52:10
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4258896 535156 7820032    0    0    61   153  270  131 25  2 72  0  0 2020-06-08 18:52:10, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4259256 535176 7820036    0    0    61   153  270  131 25  2 72  0  0 2020-06-08 18:52:16
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4258996 535176 7820036    0    0    61   153  270  131 25  2 72  0  0 2020-06-08 18:52:16, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4258520 535216 7820000    0    0    61   153  270  132 25  2 72  0  0 2020-06-08 18:52:23
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4258504 535216 7820000    0    0    61   153  270  132 25  2 72  0  0 2020-06-08 18:52:23, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4258824 535240 7819908    0    0    61   153  270  132 25  2 72  0  0 2020-06-08 18:52:29
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4258516 535240 7819908    0    0    61   153  270  132 25  2 72  0  0 2020-06-08 18:52:29, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256380 535260 7820020    0    0    61   153  270  133 25  2 72  0  0 2020-06-08 18:52:34
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256476 535260 7820020    0    0    61   153  270  133 25  2 72  0  0 2020-06-08 18:52:34, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4257316 535280 7820088    0    0    61   153  270  134 25  2 72  0  0 2020-06-08 18:52:40
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256756 535280 7820088    0    0    61   153  270  134 25  2 72  0  0 2020-06-08 18:52:40, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256952 535300 7820252    0    0    61   153  270  134 25  2 72  0  0 2020-06-08 18:52:46
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4255880 535300 7820252    0    0    61   153  270  134 25  2 72  0  0 2020-06-08 18:52:46, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256216 535328 7820308    0    0    61   153  270  135 25  2 72  0  0 2020-06-08 18:52:51
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256192 535328 7820308    0    0    61   153  270  135 25  2 72  0  0 2020-06-08 18:52:51, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 2  0      0 4257900 535348 7820248    0    0    61   153  271  135 25  2 72  0  0 2020-06-08 18:52:57
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256724 535348 7820248    0    0    61   153  271  135 25  2 72  0  0 2020-06-08 18:52:57, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4255792 535368 7820352    0    0    61   153  271  136 25  2 72  0  0 2020-06-08 18:53:03
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4255516 535368 7820352    0    0    61   153  271  136 25  2 72  0  0 2020-06-08 18:53:03, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4258740 535388 7820280    0    0    61   153  271  137 25  2 72  0  0 2020-06-08 18:53:08
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4257668 535388 7820280    0    0    61   153  271  137 25  2 72  0  0 2020-06-08 18:53:08, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4255792 535408 7820360    0    0    61   153  271  137 25  2 72  0  0 2020-06-08 18:53:14
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4255484 535408 7820360    0    0    61   153  271  137 25  2 72  0  0 2020-06-08 18:53:14, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4257504 535428 7820316    0    0    61   153  271  138 25  2 72  0  0 2020-06-08 18:53:20
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4256952 535428 7820316    0    0    61   153  271  138 25  2 72  0  0 2020-06-08 18:53:20, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4255024 535448 7820380    0    0    61   153  271  138 25  2 72  0  0 2020-06-08 18:53:25
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4254740 535448 7820380    0    0    61   153  271  138 25  2 72  0  0 2020-06-08 18:53:25, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 1  0      0 4255512 535492 7820576    0    0    61   153  271  139 26  2 72  0  0 2020-06-08 18:53:31
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4255064 535492 7820576    0    0    61   153  271  139 26  2 72  0  0 2020-06-08 18:53:31, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4254996 535512 7820604    0    0    61   154  271  139 26  2 72  0  0 2020-06-08 18:53:37
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4253468 535512 7820604    0    0    61   154  271  139 26  2 72  0  0 2020-06-08 18:53:37, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4253244 535532 7820656    0    0    60   154  271  140 26  2 72  0  0 2020-06-08 18:53:43
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 1  0      0 4251952 535532 7820656    0    0    60   154  271  140 26  2 72  0  0 2020-06-08 18:53:43, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4251820 535552 7820580    0    0    60   154  271  141 26  2 72  0  0 2020-06-08 18:53:48
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4251016 535552 7820580    0    0    60   154  271  141 26  2 72  0  0 2020-06-08 18:53:48, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4252112 535576 7820412    0    0    60   154  271  141 26  2 72  0  0 2020-06-08 18:53:54
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4251852 535576 7820392    0    0    60   154  271  141 26  2 72  0  0 2020-06-08 18:53:54, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4252156 535596 7820444    0    0    60   154  271  142 26  2 72  0  0 2020-06-08 18:54:01
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4252156 535596 7820444    0    0    60   154  271  142 26  2 72  0  0 2020-06-08 18:54:01, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4250120 535624 7820384    0    0    60   154  271  142 26  2 72  0  0 2020-06-08 18:54:06
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4249828 535624 7820384    0    0    60   154  271  142 26  2 72  0  0 2020-06-08 18:54:06, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4251544 535644 7820340    0    0    60   154  271  143 26  2 72  0  0 2020-06-08 18:54:12
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4251024 535644 7820340    0    0    60   154  271  143 26  2 72  0  0 2020-06-08 18:54:12, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4249616 535664 7820460    0    0    60   154  271  143 26  2 72  0  0 2020-06-08 18:54:17
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4249876 535664 7820460    0    0    60   154  271  143 26  2 72  0  0 2020-06-08 18:54:17, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4250380 535684 7820500    0    0    60   154  271  144 26  2 72  0  0 2020-06-08 18:54:23
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4250096 535684 7820500    0    0    60   154  271  144 26  2 72  0  0 2020-06-08 18:54:23, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4250336 535712 7820480    0    0    60   154  271  144 26  2 72  0  0 2020-06-08 18:54:29
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4249556 535712 7820480    0    0    60   154  271  144 26  2 72  0  0 2020-06-08 18:54:29, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4251220 535732 7820548    0    0    60   154  271  145 26  2 72  0  0 2020-06-08 18:54:35
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4250148 535732 7820548    0    0    60   154  271  145 26  2 72  0  0 2020-06-08 18:54:35, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4249160 535760 7820496    0    0    60   154  271  146 26  2 72  0  0 2020-06-08 18:54:41
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4248876 535760 7820496    0    0    60   154  271  146 26  2 72  0  0 2020-06-08 18:54:41, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4247796 535780 7820640    0    0    60   154  271  146 26  2 72  0  0 2020-06-08 18:54:47
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4247244 535780 7820640    0    0    60   154  271  146 26  2 72  0  0 2020-06-08 18:54:47, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4250380 535800 7820700    0    0    60   154  271  147 26  2 72  0  0 2020-06-08 18:54:53
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 2  0      0 4249812 535800 7820700    0    0    60   154  271  147 26  2 72  0  0 2020-06-08 18:54:53, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4296548 535820 7820748    0    0    60   154  271  147 26  2 72  0  0 2020-06-08 18:54:58
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4296028 535820 7820748    0    0    60   154  271  147 26  2 72  0  0 2020-06-08 18:54:58, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4325152 535840 7820732    0    0    60   154  271  148 26  2 72  0  0 2020-06-08 18:55:04
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4324340 535840 7820732    0    0    60   154  271  148 26  2 72  0  0 2020-06-08 18:55:04, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 2  0      0 4328332 535860 7820748    0    0    60   154  271  148 26  2 72  0  0 2020-06-08 18:55:10
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4328316 535860 7820748    0    0    60   154  271  148 26  2 72  0  0 2020-06-08 18:55:10, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4326856 535880 7820696    0    0    60   154  271  149 26  2 72  0  0 2020-06-08 18:55:16
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4326548 535880 7820696    0    0    60   154  271  149 26  2 72  0  0 2020-06-08 18:55:16, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4323064 535908 7820756    0    0    60   154  271  149 26  2 72  0  0 2020-06-08 18:55:21
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4322592 535908 7820756    0    0    60   154  271  149 26  2 72  0  0 2020-06-08 18:55:21, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4322376 535928 7820760    0    0    60   154  271  150 26  2 72  0  0 2020-06-08 18:55:27
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4322084 535928 7820760    0    0    60   154  271  150 26  2 72  0  0 2020-06-08 18:55:27, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4321884 535948 7820764    0    0    60   154  271  151 26  2 72  0  0 2020-06-08 18:55:33
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4321316 535948 7820764    0    0    60   154  271  151 26  2 72  0  0 2020-06-08 18:55:33, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4329132 535968 7820956    0    0    60   155  271  151 26  2 72  0  0 2020-06-08 18:55:38
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4328336 535968 7820956    0    0    60   155  271  151 26  2 72  0  0 2020-06-08 18:55:38, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4328388 535988 7820864    0    0    60   155  271  152 26  2 72  0  0 2020-06-08 18:55:44
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4327560 535988 7820864    0    0    60   155  271  152 26  2 72  0  0 2020-06-08 18:55:44, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4328232 536008 7820984    0    0    60   155  271  152 26  2 72  0  0 2020-06-08 18:55:50
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4326920 536008 7820984    0    0    60   155  271  152 26  2 72  0  0 2020-06-08 18:55:50, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4325484 536028 7821020    0    0    60   155  271  153 26  2 72  0  0 2020-06-08 18:55:56
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4324940 536028 7821020    0    0    60   155  271  153 26  2 72  0  0 2020-06-08 18:55:56, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4328164 536060 7820936    0    0    59   155  271  153 26  2 72  0  0 2020-06-08 18:56:02
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4328124 536060 7820936    0    0    59   155  271  153 26  2 72  0  0 2020-06-08 18:56:02, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4327740 536080 7820968    0    0    59   155  271  154 26  2 72  0  0 2020-06-08 18:56:09
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4327448 536080 7820968    0    0    59   155  271  154 26  2 72  0  0 2020-06-08 18:56:09, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4326600 536100 7820980    0    0    59   155  271  154 26  2 72  0  0 2020-06-08 18:56:14
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4326836 536100 7820980    0    0    59   155  271  154 26  2 72  0  0 2020-06-08 18:56:14, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4324196 536120 7820960    0    0    59   155  271  155 26  2 72  0  0 2020-06-08 18:56:20
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4323456 536120 7820960    0    0    59   155  271  155 26  2 72  0  0 2020-06-08 18:56:20, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4323436 536140 7820956    0    0    59   155  271  155 26  2 72  0  0 2020-06-08 18:56:26
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4322408 536140 7820936    0    0    59   155  271  155 26  2 72  0  0 2020-06-08 18:56:26, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4323300 536168 7821040    0    0    59   155  271  156 26  2 72  0  0 2020-06-08 18:56:31
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4323244 536168 7821040    0    0    59   155  271  156 26  2 72  0  0 2020-06-08 18:56:31, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4316312 536192 7821040    0    0    59   155  271  157 26  2 72  0  0 2020-06-08 18:56:37
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4315516 536192 7821040    0    0    59   155  271  157 26  2 72  0  0 2020-06-08 18:56:37, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4314072 536212 7821044    0    0    59   155  272  157 26  2 72  0  0 2020-06-08 18:56:43
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4313804 536212 7821044    0    0    59   155  272  157 26  2 72  0  0 2020-06-08 18:56:43, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4309740 536232 7820996    0    0    59   155  272  158 26  2 72  0  0 2020-06-08 18:56:49
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4309692 536232 7820996    0    0    59   155  272  158 26  2 72  0  0 2020-06-08 18:56:49, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4308972 536252 7820944    0    0    59   155  272  158 26  2 72  0  0 2020-06-08 18:56:55
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4308436 536252 7820944    0    0    59   155  272  158 26  2 72  0  0 2020-06-08 18:56:55, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4307376 536272 7820968    0    0    59   155  272  159 26  2 72  0  0 2020-06-08 18:57:00
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4307068 536272 7820968    0    0    59   155  272  159 26  2 72  0  0 2020-06-08 18:57:00, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4307732 536292 7821000    0    0    59   155  272  159 26  2 72  0  0 2020-06-08 18:57:06
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4307732 536292 7821000    0    0    59   155  272  159 26  2 72  0  0 2020-06-08 18:57:06, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4308464 536336 7821024    0    0    59   155  272  160 26  2 72  0  0 2020-06-08 18:57:13
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4307912 536336 7821024    0    0    59   155  272  160 26  2 72  0  0 2020-06-08 18:57:13, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4308948 536356 7821096    0    0    59   155  272  160 26  2 72  0  0 2020-06-08 18:57:19
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4308656 536356 7821096    0    0    59   155  272  160 26  2 72  0  0 2020-06-08 18:57:19, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 2  0      0 4308708 536376 7821252    0    0    59   155  272  161 26  2 72  0  0 2020-06-08 18:57:24
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 1  0      0 4308660 536376 7821252    0    0    59   155  272  161 26  2 72  0  0 2020-06-08 18:57:24, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4307872 536404 7821428    0    0    59   155  272  161 26  2 72  0  0 2020-06-08 18:57:30
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4308092 536404 7821428    0    0    59   155  272  161 26  2 72  0  0 2020-06-08 18:57:30, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4305644 536424 7821476    0    0    59   155  272  162 26  2 72  0  0 2020-06-08 18:57:36
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4305612 536424 7821476    0    0    59   155  272  162 26  2 72  0  0 2020-06-08 18:57:36, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4304356 536452 7821652    0    0    59   155  272  163 26  2 72  0  0 2020-06-08 18:57:42
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4303832 536452 7821652    0    0    59   155  272  163 26  2 72  0  0 2020-06-08 18:57:42, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4304096 536472 7821424    0    0    59   156  272  163 26  2 72  0  0 2020-06-08 18:57:48
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4303796 536472 7821424    0    0    59   156  272  163 26  2 72  0  0 2020-06-08 18:57:48, procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu----- -----timestamp-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st                CEST
+ 0  0      0 4299828 536492 7821396    0    0    59   156  272  164 26  2 72  0  0 2020-06-08 18:57:54

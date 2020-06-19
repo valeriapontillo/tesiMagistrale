@@ -70,7 +70,7 @@ mvnStep(){
 
 searchFlaky(){
 echo "--------------------------------------------SEARCH FLAKY----------------------------------"
-local concatName=$CLASSNAME"#"$METHODNAME
+local concatName=$CLASSNAME#$METHODNAME
 local nrounds=$NUMBERSROUNDS
 local nameRepo=$NAMEREPO
 local moduleName=$MODULENAME
@@ -92,12 +92,13 @@ do
     cd $RepoFolder
     cd $nameRepo
     cd $moduleName
+    echo "sono qui" $PWD
     timestampInitial=$(date +%s)
     timestampInitialDate=$(date -d @$timestampInitial)
-    echo "exec command: mvn -Dtest="$concatName" test" $i
+    echo "exec command: mvn -Dtest="$CLASSNAME" test" $i
     stateMachineInitial=$(vmstat -t)
     dirLog="$baseDir""$outputLog""$CLASSNAME"_"$METHODNAME""_""$SHACOMMIT"".txt"
-    message=$(mvn -Dtest=$concatName test)
+    message=$(mvn -Dtest=$CLASSNAME test)
     echo "$message" >> "$dirLog"
     stateMachineFinal=$(vmstat -t)
     echo "$stateMachineInitial", "$stateMachineFinal" >> "$baseDir""$stateLog""$CLASSNAME""_""$METHODNAME""_""$SHACOMMIT"".txt"

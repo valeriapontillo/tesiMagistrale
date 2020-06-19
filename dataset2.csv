@@ -55,3 +55,11 @@ https://github.com/doanduyhai/Achilles.git,3ef293744f913c1aa8cf59d2fdd78f46a5e2f
 https://github.com/apache/oozie.git,e69a5af8208e4fa6d62466e311152dcdf8a37b89,org.apache.oozie.TestDagEngine.testGetJobs
 https://github.com/apache/oozie.git,e69a5af8208e4fa6d62466e311152dcdf8a37b89,org.apache.oozie.TestDagEngine.testSubmit
 https://github.com/wro4j/wro4j.git,c3c00308439ee51fef6898b283a9f003ddc0a1f1,ro.isdc.wro.maven.plugin.TestWro4jMojo.shouldBeFasterWhenRunningProcessingInParallel
+
+
+
+--------------------------------------------------------------------------------
+https://github.com/fromage/redpipe,0aff891d6befdf0dcc2bdbfda22262cdf82ac66f,net.redpipe.discovery.DiscoveryTest.checkWebClient
+https://github.com/visallo/vertexium,f1fd59e23610312cf0ec6756ea01baaf56cdb74e,org.vertexium.util.IncreasingTimeTest.currentTimeMillisReturnsTimeGreaterThanSystemTime
+https://github.com/apereo/java-cas-client,574b74fa64e4c95bda00ff41d06d358684a0b2e6,org.jasig.cas.client.validation.AssertionImplTests.testAssertionValidity
+https://github.com/c2mon/c2mon,d80687b119c713dd177a58cf53a997d8cc5ca264,cern.c2mon.daq.filter.dynamic.DiffTimeDeadbandActivatorTest.testNoActivationOnFirstRecord
